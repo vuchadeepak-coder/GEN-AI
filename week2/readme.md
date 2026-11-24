@@ -79,6 +79,6 @@ python -m unittest -v
 
 ## Author
 
-**Jaswanth Bhaskar**
+**Deepak**
 
 **Repository:** [GenAI Practicals](https://github.com/jaswanthbhaskar-elite/GenAI-2520030553-Jaswanthbhaskar)
